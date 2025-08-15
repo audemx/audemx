@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hola, soy Augusto 👋
+
+Científico de Datos Jr. con formación en Física y Matemáticas. 
+Experiencia en Python, Machine Learning, análisis de datos y 
+desarrollo de sistemas basados en la nube. 
+Me apasiona transformar datos en soluciones prácticas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto_Del_Pilar)](https://linkedin.com/in/audemx) [![Mail](https://img.shields.io/badge/Correo-audeemx.ti@gmail.com)]()
 
 <!--
 **audemx/audemx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
