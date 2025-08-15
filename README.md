@@ -33,4 +33,4 @@ Me apasiona transformar datos en soluciones prácticas.
 
 ## Contacto:
 [![Python](https://img.shields.io/badge/LinkedIn-Augusto%20Del%20Pilar-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/audemx)
-[![Mail](https://img.shields.io/badge/Correo-audeemx.ti%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=black))](mailto:audeemx.ti@gmail.com)
+[![Mail](https://img.shields.io/badge/Correo-audeemx.ti%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=black)](mailto:audeemx.ti@gmail.com)
