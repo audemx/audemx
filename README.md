@@ -1,3 +1,5 @@
+![Portada](/portada.jpg)
+
 # Hola, soy Augusto 👋
 
 Científico de Datos Jr. con formación en Física y Matemáticas. 
