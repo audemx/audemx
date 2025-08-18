@@ -5,7 +5,9 @@ Experiencia en Python, Machine Learning, análisis de datos y
 desarrollo de sistemas basados en la nube. 
 Me apasiona transformar datos en soluciones prácticas.
 
-Mi principal objetivo profesional actualmente es trabajar para una importante empresa tecnológica o financiera y poner a prueba las habilidades que he adquirido al tiempo que las especializo, desarrollo otras nuevas y aporto valor. En los próximos años espero lograr una fuerte especialización en ML/AI, dominar modelos avanzados y aprender a desplegarlos en producción. Es de mi interes desarrollarme hasta alcanzar posiciones senior.
+Mi principal objetivo profesional es integrarme a una empresa tecnológica o financiera de primer nivel, donde pueda poner a prueba mis habilidades actuales mientras las fortalezco, adquiero nuevas competencias y genero valor en cada proyecto.
+En los próximos años busco especializarme en Machine Learning e Inteligencia Artificial, dominando modelos avanzados y su despliegue en entornos productivos.
+Mi meta a mediano plazo es alcanzar posiciones senior en el área, contribuyendo tanto con mi capacidad técnica como con mi visión estratégica para la toma de decisiones basada en datos.
 
 ## Habilidades:
 ### 🖥️ Lenguajes de Programación
