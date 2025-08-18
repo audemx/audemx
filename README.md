@@ -1,4 +1,4 @@
-![Portada](/portada.jpg)
+![Portada](/portada.jpeg)
 
 # Hola, soy Augusto 👋
 
