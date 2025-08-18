@@ -5,6 +5,8 @@ Experiencia en Python, Machine Learning, análisis de datos y
 desarrollo de sistemas basados en la nube. 
 Me apasiona transformar datos en soluciones prácticas.
 
+Mi principal objetivo profesional actualmente es trabajar para una importante empresa tecnológica o financiera y poner a prueba las habilidades que he adquirido al tiempo que las especializo, desarrollo otras nuevas y aporto valor. En los próximos años espero lograr una fuerte especialización en ML/AI, dominar modelos avanzados y aprender a desplegarlos en producción. Es de mi interes desarrollarme hasta alcanzar posiciones senior.
+
 ## Habilidades:
 ### 🖥️ Lenguajes de Programación
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
