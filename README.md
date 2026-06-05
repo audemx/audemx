@@ -2,7 +2,7 @@
 
 # Hola, soy Augusto Del Pilar 👋
 
-## **Machine Learning Engineer | Data Science Consultant | Advanced Mathematics and Physics Background | MLOps & Large-Scale Enterprise Architecture | Python & SQL | Full-Stack Software Engineer**
+## **Machine Learning Engineer | Data Science Consultant | Advanced Mathematics and Physics | MLOps & Large-Scale Enterprise Architecture | Python & SQL | Full-Stack Software Engineer**
 **Especialista en Modelación Estadística Avanzada, Arquitectura de Software Enterprise y Sistemas Complejos**
 
 Científico de Datos e Ingeniero de Machine Learning con formación nativa en **Física y Matemáticas Avanzadas (UNAM)**. Mi propuesta de valor radica en ser el puente definitivo entre el rigor del método científico y las necesidades críticas de negocio: poseo la capacidad abstracta para modelar sistemas complejos y la experiencia de ingeniería de software para traducirlos en código robusto, escalable y listo para entornos productivos de alta disponibilidad.
