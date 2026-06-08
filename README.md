@@ -74,4 +74,4 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 ## 📨 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Del%20Pilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/audemx)
-[![Mail](https://img.shields.io/badge/Correo-audemx.ti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:audemx.ti@gmail.com)
+[![Mail](https://img.shields.io/badge/Correo-audeemii%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:audeemii@gmail.com)
