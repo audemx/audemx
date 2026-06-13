@@ -77,7 +77,13 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 
 ## 📚 Publicaciones e Investigación
 
-* **Libro Independiente:** *"Partícula Libre. Una interpretación no ortodoxa de la mecánica cuántica."* Un análisis conceptual y riguroso sobre los formalismos de los sistemas cuánticos, operadores lineales y sus implicaciones probabilísticas abstractas.
+* **Libro Independiente:**
+  **Partícula Libre. Una Interpretación No Ortodoxa de la Mecánica Cuántica**
+  *Una exploración ontológica y formal sobre los fundamentos de la mecánica cuántica.*
+
+  * **Enfoque:** Investigación fundacional y divulgación científica.
+  * **Descripción:** A través de un riguroso desarrollo conceptual y matemático, la obra redefine conceptos clave como la tiempo, energía, la función de onda, la fase, ... El libro unifica la estructura ondulatoria y difusiva de la ecuación de Schrödinger bajo una interpretación geométrica coherente de los flujos de probabilidad y el operador de momento, tendiendo un puente intuitivo y sólido entre la dinámica cuántica y el comportamiento clásico.
+  * **Estado:** Edición impresa y digital financiada con éxito en Kickstarter (2025/2026).
 
 ---
 
