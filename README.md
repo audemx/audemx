@@ -68,14 +68,14 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 * **Enfoque:** Arquitectura de Software Enterprise, Control de Accesos Jerárquicos (RBAC) y Motores Analíticos en Tiempo Real.
 * **Descripción:** Diseño estructural y desarrollo modular de una plataforma SaaS con **+100k líneas de código propio** para la automatización total de flujos operativos, comerciales y contables del sector retail. Optimización avanzada de queries e infraestructura en la nube sin dependencia de servidores locales, gestionando de forma concurrente el estado transaccional del negocio.
 
-### [High-Fidelity Customer Churn Prediction Pipeline | Interconnect]
+### 🤖 [High-Fidelity Customer Churn Prediction Pipeline | Interconnect]
 * **Enfoque:** Gradient Boosting, MLOps, Redes Neuronales Artificiales (ANN), Mitigación de Riesgos Financieros.
 * **Descripción:** Pipeline predictivo de punta a punta enfocado en detectar la deserción temprana de clientes para grandes empresas de telecomunicaciones. Implementación avanzada con **LightGBM** y **TensorFlow/Keras**, controlando estrictamente el *Data Leakage* mediante técnicas de validación cruzada y optimizando hiperparámetros en espacios multidimensionales.
 * **Métricas Logradas:** **AUC-ROC de 0.9073** y una **Exactitud (Accuracy) global del 83.04%** sobre conjuntos de validación inéditos.
 
 ---
 
-## Publicaciones e Investigación
+## 📚 Publicaciones e Investigación
 
 * **Libro Independiente:** *"Partícula Libre. Una interpretación no ortodoxa de la mecánica cuántica."* Un análisis conceptual y riguroso sobre los formalismos de los sistemas cuánticos, operadores lineales y sus implicaciones probabilísticas abstractas.
 
