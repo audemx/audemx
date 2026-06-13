@@ -5,7 +5,7 @@
 ## Machine Learning Engineer | Big Data Architect | Generative AI & RAG Engineer | Advanced Mathematics & Physics | MLOps & Lakehouse Enterprise Architecture | Python & SQL | Full-Stack Software Engineer
 **Especialista en Modelación Estadística Avanzada, Arquitectura de Software Enterprise y Sistemas Complejos**
 
-Científico de Datos e Ingeniero de Machine Learning con formación nativa en **Física y Matemáticas Avanzadas (UNAM)**. Mi propuesta de valor radica en ser el puente definitivo entre el rigor del método científico y las necesidades críticas de negocio: poseo la capacidad abstracta para modelar sistemas complejos y la experiencia de ingeniería de software para traducirlos en código robusto, escalable y listo para entornos productivos de alta disponibilidad y gran escala.
+Científico de Datos e Ingeniero de Machine Learning con formación nativa en **Física y Matemáticas Avanzadas (UNAM)**. Mi propuesta de valor radica en ser el puente entre el rigor del método científico y las necesidades críticas de negocio: poseo la capacidad abstracta para modelar sistemas complejos y la experiencia de ingeniería de software para traducirlos en código robusto, escalable y listo para entornos productivos de alta disponibilidad y gran escala.
 
 Como **Consultor Independiente**, diseño y opero plataformas comerciales bajo el modelo **SaaS (Software as a Service)** que superan las **100,000 líneas de código propio**, integrando arquitecturas Lakehouse distribuidas, bases de datos optimizadas relacionales/vectoriales y lógicas de negocio automatizadas en la nube. 
 
@@ -13,9 +13,9 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 
 ---
 
-## 🛠️ Stack Tecnológico & Habilidades
+## Stack Tecnológico & Habilidades
 
-### 🖥️ Core Engineering & Deployment
+### Core Engineering & Deployment
 * **Big Data & Data Engineering:** Diseño e implementación de pipelines robustos de extracción, transformación y carga (ETL) distribuidos, garantizando transacciones ACID e inmutabilidad de los datos.
 * **Generative AI & NLP Architectures:** Construcción de sistemas de Generación Aumentada por Recuperación (RAG) de nivel empresarial, optimización de prompts, mitigación de alucinaciones y orquestación avanzada de Large Language Models (LLMs).
 * **Full-Stack Web Development:** Capacidad para diseñar arquitecturas completas, conectando interfaces de usuario altamente reactivas con microservicios asíncronos en el servidor y bases de datos híbridas.
@@ -23,7 +23,7 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 
 ---
 
-### 🤖 Advanced Analytics, Big Data & Machine Learning (AI, NLP & ML)
+### Advanced Analytics, Big Data & Machine Learning (AI, NLP & ML)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
@@ -34,7 +34,7 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 
 ---
 
-### 🗄️ Database, Cloud & Microservices (Backend & Infrastructure)
+### Database, Cloud & Microservices (Backend & Infrastructure)
 [![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -44,7 +44,7 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 
 ---
 
-### 🌐 Web Ecosystem & Business Logic (Frontend & UI)
+### Web Ecosystem & Business Logic (Frontend & UI)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.react.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -53,7 +53,7 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 
 ---
 
-## 📈 Proyectos de Alto Impacto (Featured Projects)
+## Proyectos de Alto Impacto (Featured Projects)
 
 ### 📊 [Enterprise Market Intelligence Platform | Big Data & RAG Architecture]
 * **Enfoque:** Procesamiento Distribuido, Delta Lakehouse, Semantic Chunking, Bases Vectoriales, Mitigación de Alucinaciones.
@@ -68,14 +68,14 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 * **Enfoque:** Arquitectura de Software Enterprise, Control de Accesos Jerárquicos (RBAC) y Motores Analíticos en Tiempo Real.
 * **Descripción:** Diseño estructural y desarrollo modular de una plataforma SaaS con **+100k líneas de código propio** para la automatización total de flujos operativos, comerciales y contables del sector retail. Optimización avanzada de queries e infraestructura en la nube sin dependencia de servidores locales, gestionando de forma concurrente el estado transaccional del negocio.
 
-### 🤖 [High-Fidelity Customer Churn Prediction Pipeline | Interconnect]
+### [High-Fidelity Customer Churn Prediction Pipeline | Interconnect]
 * **Enfoque:** Gradient Boosting, MLOps, Redes Neuronales Artificiales (ANN), Mitigación de Riesgos Financieros.
 * **Descripción:** Pipeline predictivo de punta a punta enfocado en detectar la deserción temprana de clientes para grandes empresas de telecomunicaciones. Implementación avanzada con **LightGBM** y **TensorFlow/Keras**, controlando estrictamente el *Data Leakage* mediante técnicas de validación cruzada y optimizando hiperparámetros en espacios multidimensionales.
 * **Métricas Logradas:** **AUC-ROC de 0.9073** y una **Exactitud (Accuracy) global del 83.04%** sobre conjuntos de validación inéditos.
 
 ---
 
-## 📚 Publicaciones e Investigación
+## Publicaciones e Investigación
 
 * **Libro Independiente:** *"Partícula Libre. Una interpretación no ortodoxa de la mecánica cuántica."* Un análisis conceptual y riguroso sobre los formalismos de los sistemas cuánticos, operadores lineales y sus implicaciones probabilísticas abstractas.
 
