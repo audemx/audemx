@@ -78,7 +78,7 @@ Apasionado por la innovación tecnológica dentro de entornos de I+D, células d
 ## 📚 Publicaciones e Investigación
 
 * **Libro Independiente:**
-  **Partícula Libre. Una Interpretación No Ortodoxa de la Mecánica Cuántica**
+  **Partícula Libre. Una Interpretación No Ortodoxa de la Mecánica Cuántica.**
   *Una exploración ontológica y formal sobre los fundamentos de la mecánica cuántica.*
 
   * **Enfoque:** Investigación fundacional y divulgación científica.
