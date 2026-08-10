@@ -1,4 +1,4 @@
-![Portada](/portada.jpe)
+![Portada](/portada.jpeg)
 
 # Hola, soy Augusto Del Pilar 👋
 
