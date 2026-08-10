@@ -2,8 +2,9 @@
 
 # Hola, soy Augusto Del Pilar 👋
 
-## Machine Learning Engineer | Big Data Architect | Generative AI & RAG Engineer | Advanced Mathematics & Physics | MLOps & Lakehouse Enterprise Architecture | Python & SQL | Full-Stack Software Engineer
-**Especialista en Modelación Estadística Avanzada, Arquitectura de Software Enterprise y Sistemas Complejos**
+## Data Science Consultant | AI/ML Engineer | Gen AI | Cloud & DevOps | Full-Stack ##
+
+**Especialista en Modelación Avanzada, Arquitectura de Software y Sistemas Complejos**
 
 Científico de Datos e Ingeniero de Machine Learning con formación nativa en **Física y Matemáticas Avanzadas (UNAM)**. Mi propuesta de valor radica en ser el puente entre el rigor del método científico y las necesidades críticas de negocio: poseo la capacidad abstracta para modelar sistemas complejos y la experiencia de ingeniería de software para traducirlos en código robusto, escalable y listo para entornos productivos de alta disponibilidad y gran escala.
 
